@@ -23,7 +23,7 @@
     width: 100%;
   }
 
-  p.pTitle {
+  .pTitle {
       position: absolute;
       top: 0;
       right: 0;
