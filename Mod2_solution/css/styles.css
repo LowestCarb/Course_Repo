@@ -39,6 +39,8 @@
     height: max-content;
     width: max-content;
     padding: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
     border: 1px solid black;
     font-size: 125%;
     float: right;
