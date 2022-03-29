@@ -1,6 +1,8 @@
 /********** Base styles **********/
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
   }
   h1 {
     margin-bottom: 15px;
@@ -23,11 +25,13 @@
     width: 100%;
   }
 
-  div > p.pTitle {
-      position: absolute;
-      top: 0;
-      right: 0;
-      background-color: aquamarine;
+  .pTitle {
+    position: relative;
+    top: 0;
+    right: 0;
+    background-color: aquamarine;
+    height: 20px;
+    width: 40px;
   }
   
   /********** Desktop devices only **********/
