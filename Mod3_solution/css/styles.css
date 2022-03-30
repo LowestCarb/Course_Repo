@@ -34,7 +34,6 @@ body {
 }
 #nav-list a{
   color: #eee;
-  text-align: center;
 }
 #nav-list a:hover {
   background: #E7E7E7;
@@ -60,13 +59,13 @@ h2{
   padding: 10px;
   position: relative;
   height: 1000px;
+  margin-bottom: 15px;
 }
-#main_paragraph span{
+#main_paragraph h3{
   position: absolute;
   top: 0;
   right: 0;
   width: 100%;
-  text-align: center;
   font-size: 1.1em;
   font-weight: bold;
   margin-top: 10px;
